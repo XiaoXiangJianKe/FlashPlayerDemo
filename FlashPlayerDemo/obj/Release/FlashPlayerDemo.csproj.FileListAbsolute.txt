@@ -1,0 +1,13 @@
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\bin\Release\FlashPlayerDemo.exe.config
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\obj\Release\Interop.ShockwaveFlashObjects.dll
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\obj\Release\FlashPlayerDemo.csproj.ResolveComReference.cache
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\bin\Release\FlashPlayerDemo.exe
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\bin\Release\FlashPlayerDemo.pdb
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\bin\Release\Interop.ShockwaveFlashObjects.dll
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\obj\Release\FlashPlayerDemo.Form1.resources
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\obj\Release\FlashPlayerDemo.Properties.Resources.resources
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\obj\Release\FlashPlayerDemo.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\obj\Release\FlashPlayerDemo.exe
+d:\Documents\Visual Studio 2012\Projects\FlashPlayerDemo\FlashPlayerDemo\obj\Release\FlashPlayerDemo.pdb
